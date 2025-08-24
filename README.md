@@ -7,8 +7,8 @@
 
 This repository is part of **Siraat Cyber Academy** — where certifications are not just passed, but **lived with soul**.  
 
-This is not just a list of labs.  
-It is a **fortress of understanding**.  
+These labs are more than **steps** —  
+they are **walls of understanding** guarding the **cloud**.
 
 Every lab here is a **pathway into Azure’s valley** —  
 where your mission is not only to configure,  
