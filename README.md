@@ -5,6 +5,8 @@
 
 ## 🌌 Welcome, Guardian of the Cloud  
 
+This repository is part of **Siraat Cyber Academy** — where certifications are not just passed, but **lived with soul**.  
+
 This is not just a list of labs.  
 It is a **fortress of understanding**.  
 
