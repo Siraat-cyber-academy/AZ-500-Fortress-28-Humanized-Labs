@@ -2,8 +2,6 @@
 
 📝 This is the placeholder file for **Understand Network Security Group rules**.
 
-Awesome—let’s turn **“Understand Network Security Group (NSG) rules”** into a clean, professional lab you can ship on GitHub or run yourself. I’ll keep it crisp, technical, and portfolio-ready.
-
 ---
 
 # 🛡️ Lab: Understand Network Security Group (NSG) Rules
