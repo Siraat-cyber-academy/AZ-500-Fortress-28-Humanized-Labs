@@ -2,6 +2,8 @@
 
 # 🔐 Lab: Secure Azure Cosmos DB Keys with Azure Key Vault (A → Z)
 
+https://www.whizlabs.com/labs/secure-azure-cosmos-db-keys-with-azure-key-vault
+
 ## 🎯 Goal (One glance)
 
 - Create **Key Vault**
